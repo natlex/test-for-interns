@@ -26,6 +26,12 @@
 Место для ваших записей: 
 
 
+- Морозов Данила
+- @dmorozyaka
+- IntelliJ IDEA или VS Code
+- "Чистый город или "Раньше было так"
+- Backend - Java, Spring
+=======
 - Ермакова Александра;
 - @beautiful_savage;
 - VS Code;
