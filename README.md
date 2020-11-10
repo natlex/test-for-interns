@@ -26,10 +26,10 @@
 Место для ваших записей: 
 
 
-- Прохоров Илья
-- @oyikagawa
-- WebStorm
-- "Город для Жизни" или "Раньше было так"
-- Frontend - Angular
+- Морозов Данила
+- @dmorozyaka
+- IntelliJ IDEA или VS Code
+- "Чистый город или "Раньше было так"
+- Backend - Java, Spring
 
 
