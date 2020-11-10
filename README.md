@@ -33,3 +33,8 @@
 - Frontend - Angular
 
 
+- Кигурадзе Илья
+- @kigur
+- Visual Studio code
+- Раньше было так
+- Тестировщик/Frontend(горю желанием углубить знания frontend)
