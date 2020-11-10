@@ -31,5 +31,25 @@
 - IntelliJ IDEA или VS Code
 - "Чистый город или "Раньше было так"
 - Backend - Java, Spring
+=======
+- Ермакова Александра;
+- @beautiful_savage;
+- VS Code;
+- "Город для жизни";
+- Фронтенд;
+- React (потому что немного знакома с ним);
 
+
+- Прохоров Илья
+- @oyikagawa
+- WebStorm
+- "Город для Жизни" или "Раньше было так"
+- Frontend - Angular
+
+
+- Кигурадзе Илья
+- @kigur
+- Visual Studio code
+- Раньше было так
+- Тестировщик/Frontend(горю желанием углубить знания frontend)
 
