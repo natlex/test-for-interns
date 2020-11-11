@@ -75,6 +75,14 @@
 
 ---
 
+- Смирнов Михаил
+- @SmirnoMike
+- Visual Studio Code
+- "Город для жизни" "Чистый город"
+- Frontend/Тестировщик
+
+---
+
 - Пшегодская Юля
 - @alexevnaa
 - VS Code, IntelliJ IDEA
