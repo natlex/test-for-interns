@@ -73,4 +73,11 @@
 - "Город для жизни", "Раньше было так"
 - Backend - Python, Django
 
+---
+
+- Смирнов Михаил
+- @SmirnoMike
+- Visual Studio Code
+- "Город для жизни" "Чистый город"
+- Frontend/Тестировщик
 
