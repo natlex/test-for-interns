@@ -99,8 +99,9 @@
 
 ---
 
--Гвинджилия Илья
--@finkbay
--VS Code
--бэкенд разработчик
--Python, Django или Pyramid
+- Гвинджилия Илья
+- @finkbay
+- VS Code
+- бэкенд разработчик
+- Python, Django или Pyramid
+
